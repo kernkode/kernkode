@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm korn kode</h1>
-<h3 align="center">A passionate developer from the United States and lover of the GTA saga.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
